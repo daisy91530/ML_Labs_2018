@@ -1,0 +1,11 @@
+1.把整個report寫成一個readme.md，放在你這個project的第一層(就點開就能看到
+2.report包含:
+   詳見 "Lab1_deep residual learning.pdf" 中 report 需求(這次不強求要 loss graph
+3.實驗內容僅包含:
+   (1.) layer34(basic block)
+   (2.) layer56(bottlneck)
+   (3.) 兩著比較
+
+4.參考資料:
+   (1.)https://www.zhihu.com/question/55720139
+   (2.)詳見pdf內
